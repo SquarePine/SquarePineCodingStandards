@@ -1,0 +1,1 @@
+# SquarePine - Coding Standards
